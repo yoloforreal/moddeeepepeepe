@@ -1,0 +1,34 @@
+[
+	{
+		"question": "What color is the sky?",
+		"answers": ["blue"]
+	},
+	{
+		"question": "How many letters are there in the alphabet?",
+		"answers": ["26", "twenty-six", "twenty six", "twentysix"]
+    },
+    {
+        "question": "When did pepe originate?",
+        "answers": ["2005", "two thousand and five"]
+    },
+    {
+        "question": "Who invented pepe?",
+        "answers": ["matt", "matt furie", "mr furie", "pepe"]
+    },
+    {
+        "question": "How did people try to revive the pepe meme?",
+        "answers": ["rare", "rare pepe", "they added rare pepe meme", "pepe rare"]
+    },
+    {
+        "question": "What is 1+1?",
+        "answers": ["window", "2", "two", "wto", "otw", "pepe"]
+    },
+    {
+        "question": "What does the fox say?",
+        "answers": ["pepe"]
+    },
+    {
+        "question": "What happened to pepe??",
+        "answers": ["racist"]
+    }
+]
